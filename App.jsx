@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import bgImage from "./assets/lunch-bg.png"; // ← 追加
+import bgImage from "./lunch-bg.png"; // ← 追加
 
 
 const MENUS = [
